@@ -1,0 +1,41 @@
+.main{
+  margin-top:150px;
+}
+
+.images{
+  padding-top: 100px;
+}
+
+.main-image
+{
+  height:100px;
+  width:100px;
+  margin-left: 20%;
+}
+
+.quote-image1
+{
+  height:200px;
+  width:200px;
+  margin-left: 5%;
+  /* display: inline-block; */
+}
+.quote-image2
+{
+  height:200px;
+  width:200px;
+  margin-left: 5%;
+
+}
+.quote-image3
+{
+  height:200px;
+  width:200px;
+  margin-left: 5%;
+
+}
+
+.inline
+{
+  display: block;
+}
